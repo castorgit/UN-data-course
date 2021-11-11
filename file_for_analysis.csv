@@ -1,0 +1,183 @@
+﻿,Country or Area,Births,Population,Deaths_ratio,Deaths,Global Code,Global Name,Region Code,Region Name,Sub-region Code,Sub-region Name,Intermediate Region Code,Intermediate Region Name,M49 Code,ISO-alpha2 Code,ISO-alpha3 Code,Least Developed Countries (LDC),Land Locked Developing Countries (LLDC),Small Island Developing States (SIDS),Developed / Developing Countries,Unnamed: 16,Births_ratio
+0,Afghanistan,1408.0,30117.413,16.0,481.878608,1,World,142.0,Asia,34.0,Southern Asia,,,4,AF,AFG,x,x,,Developing,,46.75036331971807
+1,Albania,41.0,2928.592,6.0,17.571552,1,World,150.0,Europe,39.0,Southern Europe,,,8,AL,ALB,,,,Developed,,13.999901659227369
+2,Algeria,712.0,36661.445,5.0,183.30722500000002,1,World,2.0,Africa,15.0,Northern Africa,,,12,DZ,DZA,,,,Developing,,19.42094753766525
+3,Angola,803.0,24220.661,14.0,339.08925400000004,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,24,AO,AGO,x,,,Developing,,33.15351302757592
+4,Argentina,693.0,41320.5,8.0,330.564,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,32,AR,ARG,,,,Developing,,16.771336261661887
+5,Armenia,47.0,2876.538,9.0,25.888842,1,World,142.0,Asia,145.0,Western Asia,,,51,AM,ARM,,x,,Developing,,16.33908538666967
+6,Australia,307.0,22538.001,7.0,157.766007,1,World,9.0,Oceania,53.0,Australia and New Zealand,,,36,AU,AUS,,,,Developed,,13.621438742504271
+7,Austria,74.0,8453.501,9.0,76.08150900000001,1,World,150.0,Europe,155.0,Western Europe,,,40,AT,AUT,,,,Developed,,8.753769592030567
+8,Azerbaijan,184.0,9146.275,7.0,64.02392499999999,1,World,142.0,Asia,145.0,Western Asia,,,31,AZ,AZE,,x,,Developing,,20.117479520351182
+9,Bahamas,5.0,359.578,5.0,1.7978899999999998,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,44,BS,BHS,,,x,Developing,,13.905188860275102
+10,Bahrain,23.0,1278.151,3.0,3.8344530000000003,1,World,142.0,Asia,145.0,Western Asia,,,48,BH,BHR,,,,Developing,,17.994743970000414
+11,Bangladesh,3016.0,149273.139,6.0,895.6388340000001,1,World,142.0,Asia,34.0,Southern Asia,,,50,BD,BGD,x,,,Developing,,20.204572773136366
+12,Barbados,3.0,282.987,9.0,2.5468830000000002,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,52,BB,BRB,,,x,Developing,,10.60119369440999
+13,Belarus,107.0,9415.32,14.0,131.81447999999997,1,World,150.0,Europe,151.0,Eastern Europe,,,112,BY,BLR,,,,Developed,,11.364457076339413
+14,Belgium,123.0,11013.853,10.0,110.13853,1,World,150.0,Europe,155.0,Western Europe,,,56,BE,BEL,,,,Developed,,11.167753918633199
+15,Belize,8.0,330.237,4.0,1.320948,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,84,BZ,BLZ,,,x,Developing,,24.22502626901286
+16,Benin,356.0,9460.831,12.0,113.52997200000001,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,204,BJ,BEN,x,,,Developing,,37.62882985648935
+17,Bhutan,15.0,693.298,7.0,4.853086,1,World,142.0,Asia,34.0,Southern Asia,,,64,BT,BTN,x,x,,Developing,,21.635717974089065
+18,Bolivia (Plurinational State of),264.0,10212.954,7.0,71.490678,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,68,BO,BOL,,x,,Developing,,25.84952404563851
+19,Bosnia and Herzegovina,32.0,3661.175,10.0,36.61175,1,World,150.0,Europe,39.0,Southern Europe,,,70,BA,BIH,,,,Developed,,8.74036340792232
+20,Botswana,47.0,2015.403,13.0,26.200239,1,World,2.0,Africa,202.0,Sub-Saharan Africa,18.0,Southern Africa,72,BW,BWA,,x,,Developing,,23.320397955148422
+21,Brazil,2996.0,197514.536,6.0,1185.0872160000001,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,76,BR,BRA,,,,Developing,,15.168503851281104
+22,Brunei Darussalam,8.0,393.688,3.0,1.181064,1,World,142.0,Asia,35.0,South-eastern Asia,,,96,BN,BRN,,,,Developing,,20.32066001503729
+23,Bulgaria,75.0,7378.65,15.0,110.67975,1,World,150.0,Europe,151.0,Eastern Europe,,,100,BG,BGR,,,,Developed,,10.164460978634304
+24,Burkina Faso,730.0,16081.913,12.0,192.982956,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,854,BF,BFA,x,x,,Developing,,45.39260969761495
+25,Burundi,288.0,8958.406,14.0,125.41768400000001,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,108,BI,BDI,x,x,,Developing,,32.14857643201257
+26,Cambodia,317.0,14541.423,8.0,116.331384,1,World,142.0,Asia,35.0,South-eastern Asia,,,116,KH,KHM,x,,,Developing,,21.7997922211602
+27,Cameroon,716.0,20906.388,14.0,292.68943199999995,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,120,CM,CMR,,,,Developing,,34.24790547271963
+28,Canada,388.0,34539.159,8.0,276.313272,1,World,19.0,Americas,21.0,Northern America,,,124,CA,CAN,,,,Developed,,11.233626157486928
+29,Cabo Verde,10.0,498.857,5.0,2.4942850000000005,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,132,CV,CPV,,,x,Developing,,20.04582475539082
+30,Central African Republic,156.0,4418.637,16.0,70.69819199999999,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,140,CF,CAF,x,x,,Developing,,35.30500468809726
+31,Chad,511.0,12360.99,16.0,197.77584,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,148,TD,TCD,x,x,,Developing,,41.339730879160975
+32,Chile,245.0,17233.576,6.0,103.40145600000001,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,152,CL,CHL,,,,Developing,,14.216434244407546
+33,China,16364.0,1376497.639,7.0,9635.483472999998,1,World,142.0,Asia,30.0,Eastern Asia,,,156,CN,CHN,,,,Developing,,11.888142439450998
+34,China,16364.0,1376497.639,7.0,9635.483472999998,1,World,142.0,Asia,30.0,Eastern Asia,,, Hong Kong Special Administrative Region,344,HK,HKG,,,,Developing,11.888142439450998
+35,China,16364.0,1376497.639,7.0,9635.483472999998,1,World,142.0,Asia,30.0,Eastern Asia,,, Macao Special Administrative Region,446,MO,MAC,,,,Developing,11.888142439450998
+36,Colombia,910.0,45662.748,5.0,228.31374,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,170,CO,COL,,,,Developing,,19.928717386872993
+37,Comoros,28.0,706.569,9.0,6.359120999999999,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,174,KM,COM,x,,x,Developing,,39.62811841447898
+38,Congo,145.0,4394.844,11.0,48.343284,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,178,CG,COG,,,,Developing,,32.99320749496455
+39,Costa Rica,73.0,4633.086,4.0,18.532344000000002,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,188,CR,CRI,,,,Developing,,15.756236771775873
+40,Côte d’Ivoire,679.0,21028.655,12.0,252.34385999999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,384,CI,CIV,,,,Developing,,32.28927385037227
+41,Croatia,43.0,4313.099,12.0,51.757188,1,World,150.0,Europe,39.0,Southern Europe,,,191,HR,HRV,,,,Developed,,9.969629725633471
+42,Cuba,110.0,11236.671,7.0,78.656697,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,192,CU,CUB,,,x,Developing,,9.789376230735954
+43,Cyprus,13.0,1124.833,7.0,7.873831,1,World,142.0,Asia,145.0,Western Asia,,,196,CY,CYP,,,,Developed,,11.557271168253418
+44,Czechia,116.0,10566.517,10.0,105.66517,1,World,150.0,Europe,151.0,Eastern Europe,,,203,CZ,CZE,,,,Developed,,10.978073474920828
+45,Democratic People's Republic of Korea,348.0,24673.395,10.0,246.73395000000002,1,World,142.0,Asia,30.0,Eastern Asia,,,408,KP,PRK,,,,Developing,,14.10426088505453
+46,Democratic Republic of the Congo,2912.0,66755.153,16.0,1068.082448,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,180,CD,COD,x,,,Developing,,43.622100603978836
+47,Denmark,64.0,5582.978,10.0,55.82978,1,World,150.0,Europe,154.0,Northern Europe,,,208,DK,DNK,,,,Developed,,11.463416119497516
+48,Djibouti,26.0,853.674,10.0,8.53674,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,262,DJ,DJI,x,,,Developing,,30.456591157748743
+49,Dominican Republic,216.0,9813.211,6.0,58.879265999999994,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,214,DO,DOM,,,x,Developing,,22.011143956855715
+50,Ecuador,298.0,15243.884,5.0,76.21942,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,218,EC,ECU,,,,Developing,,19.548823646257084
+51,Egypt,1886.0,84529.252,5.0,422.6462599999999,1,World,2.0,Africa,15.0,Northern Africa,,,818,EG,EGY,,,,Developing,,22.311802782781044
+52,El Salvador,126.0,6210.568,7.0,43.473976,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,222,SV,SLV,,,,Developing,,20.28799942291913
+53,Equatorial Guinea,26.0,986.853,14.0,13.815942,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,226,GQ,GNQ,,,,Developing,,26.346375802677805
+54,Eritrea,193.0,3213.972,8.0,25.711776,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,232,ER,ERI,x,,,Developing,,60.050305354247016
+55,Estonia,16.0,1327.709,13.0,17.260217,1,World,150.0,Europe,154.0,Northern Europe,,,233,EE,EST,,,,Developed,,12.050833428108117
+56,Ethiopia,2613.0,90139.929,9.0,811.259361,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,231,ET,ETH,x,x,,Developing,,28.988263347755684
+57,Fiji,18.0,863.449,7.0,6.044143,1,World,9.0,Oceania,54.0,Melanesia,,,242,FJ,FJI,,,x,Developing,,20.84662788421783
+58,Finland,61.0,5390.038,10.0,53.90038,1,World,150.0,Europe,154.0,Northern Europe,,,246,FI,FIN,,,,Developed,,11.317174387267771
+59,France,792.0,63222.227,9.0,569.0000429999999,1,World,150.0,Europe,155.0,Western Europe,,,250,FR,FRA,,,,Developed,,12.527239826588204
+60,Gabon,42.0,1684.635,9.0,15.161715000000001,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,266,GA,GAB,,,,Developing,,24.931216554327793
+61,Gambia,67.0,1848.147,9.0,16.633323,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,270,GM,GMB,x,,,Developing,,36.25252753163033
+62,Georgia,51.0,4081.017,11.0,44.891186999999995,1,World,142.0,Asia,145.0,Western Asia,,,268,GE,GEO,,,,Developing,,12.496884967644094
+63,Germany,699.0,80855.632,11.0,889.4119519999999,1,World,150.0,Europe,155.0,Western Europe,,,276,DE,DEU,,,,Developed,,8.645037862050229
+64,Ghana,776.0,25387.712,8.0,203.101696,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,288,GH,GHA,,,,Developing,,30.565968292061925
+65,Greece,117.0,10829.079,10.0,108.29078999999999,1,World,150.0,Europe,39.0,Southern Europe,,,300,GR,GRC,,,,Developed,,10.804242909300044
+66,Grenada,2.0,106.796,6.0,0.640776,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,308,GD,GRD,,,x,Developing,,18.72729315704708
+67,Guatemala,473.0,14948.801,5.0,74.744005,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,320,GT,GTM,,,,Developing,,31.641333642744993
+68,Guinea,394.0,10420.472,13.0,135.466136,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,324,GN,GIN,x,,,Developing,,37.81018748478956
+69,Guinea-Bissau,59.0,1562.989,16.0,25.007824,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,624,GW,GNB,x,,x,Developing,,37.748186327606916
+70,Guyana,13.0,752.028,6.0,4.512168,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,328,GY,GUY,,,x,Developing,,17.286590392910902
+71,Haiti,266.0,10100.32,9.0,90.90288000000001,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,332,HT,HTI,x,,x,Developing,,26.335799261805565
+72,Honduras,205.0,8480.671,5.0,42.403355000000005,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,340,HN,HND,,,,Developing,,24.172615586667607
+73,Hungary,100.0,9895.68,13.0,128.64383999999998,1,World,150.0,Europe,151.0,Eastern Europe,,,348,HU,HUN,,,,Developed,,10.105419738714266
+74,Iceland,5.0,323.474,6.0,1.940844,1,World,150.0,Europe,154.0,Northern Europe,,,352,IS,ISL,,,,Developed,,15.457192850120876
+75,India,27098.0,1250287.943,8.0,10002.303544,1,World,142.0,Asia,34.0,Southern Asia,,,356,IN,IND,,,,Developing,,21.6734074352343
+76,Indonesia,4331.0,245115.987,7.0,1715.811909,1,World,142.0,Asia,35.0,South-eastern Asia,,,360,ID,IDN,,,,Developing,,17.669186139213352
+77,Iran (Islamic Republic of),1255.0,74634.957,5.0,373.174785,1,World,142.0,Asia,34.0,Southern Asia,,,364,IR,IRN,,,,Developing,,16.815176834629916
+78,Iraq,1144.0,30725.3,6.0,184.3518,1,World,142.0,Asia,145.0,Western Asia,,,368,IQ,IRQ,,,,Developing,,37.23315964368126
+79,Ireland,72.0,4591.105,6.0,27.546629999999997,1,World,150.0,Europe,154.0,Northern Europe,,,372,IE,IRL,,,,Developed,,15.682499093355522
+80,Israel,156.0,7487.1,5.0,37.4355,1,World,142.0,Asia,145.0,Western Asia,,,376,IL,ISR,,,,Developed,,20.835837640742074
+81,Italy,557.0,59589.076,10.0,595.89076,1,World,150.0,Europe,39.0,Southern Europe,,,380,IT,ITA,,,,Developed,,9.347350846655182
+82,Jamaica,50.0,2825.929,7.0,19.781503,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,388,JM,JAM,,,x,Developing,,17.693296611485994
+83,Japan,1073.0,128498.965,9.0,1156.490685,1,World,142.0,Asia,30.0,Eastern Asia,,,392,JP,JPN,,,,Developed,,8.350261809501735
+84,Jordan,154.0,7662.846,4.0,30.651383999999997,1,World,142.0,Asia,145.0,Western Asia,,,400,JO,JOR,,,,Developing,,20.096971803948563
+85,Kazakhstan,345.0,16490.67,10.0,164.90669999999997,1,World,142.0,Asia,143.0,Central Asia,,,398,KZ,KAZ,,x,,Developing,,20.92092073881777
+86,Kenya,1560.0,43178.274,10.0,431.78274,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,404,KE,KEN,,,,Developing,,36.12928112874545
+87,Kuwait,50.0,3168.06,3.0,9.50418,1,World,142.0,Asia,145.0,Western Asia,,,414,KW,KWT,,,,Developing,,15.78252937128716
+88,Kyrgyzstan,131.0,5517.922,7.0,38.625454,1,World,142.0,Asia,143.0,Central Asia,,,417,KG,KGZ,,x,,Developing,,23.74082127293572
+89,Lao People's Democratic Republic,140.0,6347.567,6.0,38.085402,1,World,142.0,Asia,35.0,South-eastern Asia,,,418,LA,LAO,x,x,,Developing,,22.05569472523882
+90,Latvia,24.0,2093.61,14.0,29.31054,1,World,150.0,Europe,154.0,Northern Europe,,,428,LV,LVA,,,,Developed,,11.463453078653618
+91,Lebanon,65.0,5202.026,7.0,36.414182000000004,1,World,142.0,Asia,145.0,Western Asia,,,422,LB,LBN,,,,Developing,,12.495131704455149
+92,Lesotho,60.0,2003.788,15.0,30.05682,1,World,2.0,Africa,202.0,Sub-Saharan Africa,18.0,Southern Africa,426,LS,LSO,x,x,,Developing,,29.943287413638565
+93,Liberia,157.0,4017.443,11.0,44.191873,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,430,LR,LBR,x,,,Developing,,39.07958370535687
+94,Libya,144.0,6247.439,4.0,24.989756,1,World,2.0,Africa,15.0,Northern Africa,,,434,LY,LBY,,,,Developing,,23.049444740476858
+95,Lithuania,35.0,3083.403,14.0,43.167642,1,World,150.0,Europe,154.0,Northern Europe,,,440,LT,LTU,,,,Developed,,11.35109487796438
+96,Luxembourg,6.0,519.307,8.0,4.154456,1,World,150.0,Europe,155.0,Western Europe,,,442,LU,LUX,,,,Developed,,11.553859277845284
+97,Madagascar,747.0,21743.967,6.0,130.463802,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,450,MG,MDG,x,,,Developing,,34.35435677399621
+98,Malawi,686.0,14962.115,12.0,179.54538,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,454,MW,MWI,x,x,,Developing,,45.84913296014635
+99,Malaysia,579.0,28650.959,5.0,143.25479499999997,1,World,142.0,Asia,35.0,South-eastern Asia,,,458,MY,MYS,,,,Developing,,20.20874763738275
+100,Maldives,5.0,380.495,4.0,1.52198,1,World,142.0,Asia,34.0,Southern Asia,,,462,MV,MDV,,,x,Developing,,13.140777145560387
+101,Mali,728.0,15514.59,14.0,217.20426,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,466,ML,MLI,x,x,,Developing,,46.923573230101475
+102,Malta,4.0,417.714,8.0,3.341712,1,World,150.0,Europe,39.0,Southern Europe,,,470,MT,MLT,,,,Developed,,9.575929942496542
+103,Mauritania,118.0,3598.648,9.0,32.387832,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,478,MR,MRT,x,,,Developing,,32.79009227910037
+104,Mauritius,16.0,1251.08,7.0,8.75756,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,480,MU,MUS,,,x,Developing,,12.788950346900279
+105,Mexico,2195.0,115695.473,5.0,578.477365,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,484,MX,MEX,,,,Developing,,18.97222028730545
+106,Micronesia (Federated States of),3.0,103.45,6.0,0.6207,1,World,9.0,Oceania,57.0,Micronesia,,,583,FM,FSM,,,x,Developing,,28.999516674722088
+107,Mongolia,65.0,2770.361,6.0,16.622165999999996,1,World,142.0,Asia,30.0,Eastern Asia,,,496,MN,MNG,,x,,Developing,,23.462646203870182
+108,Montenegro,8.0,625.27,10.0,6.2527,1,World,150.0,Europe,39.0,Southern Europe,,,499,ME,MNE,,,,Developed,,12.794472787755689
+109,Morocco,620.0,32781.853,6.0,196.69111800000002,1,World,2.0,Africa,15.0,Northern Africa,,,504,MA,MAR,,,,Developing,,18.912902818519743
+110,Mozambique,889.0,24187.494,14.0,338.624916,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,508,MZ,MOZ,x,,,Developing,,36.754531081227356
+111,Myanmar,824.0,50990.617,8.0,407.924936,1,World,142.0,Asia,35.0,South-eastern Asia,,,104,MM,MMR,x,,,Developing,,16.15983583803271
+112,Namibia,60.0,2156.698,8.0,17.253584,1,World,2.0,Africa,202.0,Sub-Saharan Africa,18.0,Southern Africa,516,,NAM,,,,Developing,,27.82030678379634
+113,Nepal,722.0,27041.22,6.0,162.24732,1,World,142.0,Asia,34.0,Southern Asia,,,524,NP,NPL,x,x,,Developing,,26.699978773147066
+114,Netherlands,181.0,16738.193,8.0,133.905544,1,World,150.0,Europe,155.0,Western Europe,,,528,NL,NLD,,,,Developed,,10.813592602259993
+115,New Zealand,64.0,4418.678,7.0,30.930746,1,World,9.0,Oceania,53.0,Australia and New Zealand,,,554,NZ,NZL,,,,Developed,,14.483970092412255
+116,Nicaragua,138.0,5903.039,5.0,29.515195,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,558,NI,NIC,,,,Developing,,23.377788965988536
+117,Niger,777.0,17114.766,13.0,222.49195799999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,562,NE,NER,x,x,,Developing,,45.399393716513565
+118,Nigeria,6458.0,162805.077,14.0,2279.2710779999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,566,NG,NGA,,,,Developing,,39.66706763082088
+119,Norway,61.0,4948.33,8.0,39.58664,1,World,150.0,Europe,154.0,Northern Europe,,,578,NO,NOR,,,,Developed,,12.327391261294213
+120,Oman,50.0,3251.108,4.0,13.004432000000001,1,World,142.0,Asia,145.0,Western Asia,,,512,OM,OMN,,,,Developing,,15.379372201723227
+121,Pakistan,4764.0,183340.174,7.0,1283.381218,1,World,142.0,Asia,34.0,Southern Asia,,,586,PK,PAK,,,,Developing,,25.984484993452664
+122,Panama,70.0,3706.483,5.0,18.532415,1,World,19.0,Americas,419.0,Latin America and the Caribbean,13.0,Central America,591,PA,PAN,,,,Developing,,18.885827885896145
+123,Papua New Guinea,208.0,7472.199,7.0,52.305392999999995,1,World,9.0,Oceania,54.0,Melanesia,,,598,PG,PNG,,,x,Developing,,27.83651773728189
+124,Paraguay,158.0,6333.976,5.0,31.66988,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,600,PY,PRY,,x,,Developing,,24.9448371765223
+125,Peru,591.0,29264.318,5.0,146.32159,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,604,PE,PER,,,,Developing,,20.195242547596703
+126,Philippines,2358.0,95570.05,6.0,573.4203,1,World,142.0,Asia,35.0,South-eastern Asia,,,608,PH,PHL,,,,Developing,,24.673001635972774
+127,Poland,410.0,38286.831,10.0,382.86831,1,World,150.0,Europe,151.0,Eastern Europe,,,616,PL,POL,,,,Developed,,10.708642875144198
+128,Portugal,97.0,10569.38,10.0,105.69379999999998,1,World,150.0,Europe,39.0,Southern Europe,,,620,PT,PRT,,,,Developed,,9.17745411746006
+129,Qatar,21.0,2035.871,2.0,4.071742,1,World,142.0,Asia,145.0,Western Asia,,,634,QA,QAT,,,,Developing,,10.314995400003241
+130,Republic of Korea,479.0,49786.159,6.0,298.71695400000004,1,World,142.0,Asia,30.0,Eastern Asia,,,410,KR,KOR,,,,Developing,,9.621147917837968
+131,Republic of Moldova,44.0,4079.164,13.0,53.029132000000004,1,World,150.0,Europe,151.0,Eastern Europe,,,498,MD,MDA,,x,,Developed,,10.786523905388457
+132,Romania,221.0,20336.718,12.0,244.040616,1,World,150.0,Europe,151.0,Eastern Europe,,,642,RO,ROU,,,,Developed,,10.867043541637347
+133,Russian Federation,1689.0,143703.025,14.0,2011.84235,1,World,150.0,Europe,151.0,Eastern Europe,,,643,RU,RUS,,,,Developed,,11.753406026073565
+134,Rwanda,449.0,10293.331,12.0,123.51997200000001,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,646,RW,RWA,x,x,,Developing,,43.62047620930484
+135,Saint Lucia,3.0,175.544,6.0,1.0532640000000002,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,662,LC,LCA,,,x,Developing,,17.089732488720777
+136,Saint Vincent and the Grenadines,2.0,108.316,7.0,0.758212,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,670,VC,VCT,,,x,Developing,,18.464492780383324
+137,Samoa,4.0,187.469,5.0,0.937345,1,World,9.0,Oceania,61.0,Polynesia,,,882,WS,WSM,,,x,Developing,,21.336861027689913
+138,Sao Tome and Principe,5.0,184.524,8.0,1.476192,1,World,2.0,Africa,202.0,Sub-Saharan Africa,17.0,Middle Africa,678,ST,STP,x,,x,Developing,,27.096746222713577
+139,Saudi Arabia,605.0,28267.589,4.0,113.070356,1,World,142.0,Asia,145.0,Western Asia,,,682,SA,SAU,,,,Developing,,21.402603525896744
+140,Senegal,471.0,13033.809,9.0,117.30428099999999,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,686,SN,SEN,x,,,Developing,,36.136788562729436
+141,Serbia,110.0,8963.769,12.0,107.565228,1,World,150.0,Europe,39.0,Southern Europe,,,688,RS,SRB,,,,Developed,,12.271623688651502
+142,Sierra Leone,227.0,6563.24,15.0,98.44859999999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,694,SL,SLE,x,,,Developing,,34.5865761422712
+143,Singapore,47.0,5263.636,5.0,26.31818,1,World,142.0,Asia,35.0,South-eastern Asia,,,702,SG,SGP,,,x,Developing,,8.929188872482824
+144,Slovakia,58.0,5408.937,10.0,54.089369999999995,1,World,150.0,Europe,151.0,Eastern Europe,,,703,SK,SVK,,,,Developed,,10.722994185363964
+145,Slovenia,20.0,2051.287,10.0,20.51287,1,World,150.0,Europe,39.0,Southern Europe,,,705,SI,SVN,,,,Developed,,9.749976478181747
+146,Solomon Islands,17.0,541.521,6.0,3.249126,1,World,9.0,Oceania,54.0,Melanesia,,,90,SB,SLB,x,,x,Developing,,31.39305770228671
+147,Somalia,416.0,12376.301,15.0,185.64451499999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,706,SO,SOM,x,,,Developing,,33.61262787645517
+148,South Africa,1052.0,52003.755,15.0,780.0563249999999,1,World,2.0,Africa,202.0,Sub-Saharan Africa,18.0,Southern Africa,710,ZA,ZAF,,,,Developing,,20.229308441284672
+149,Spain,499.0,47084.24,9.0,423.75816,1,World,150.0,Europe,39.0,Southern Europe,,,724,ES,ESP,,,,Developed,,10.598026006154075
+150,Sri Lanka,373.0,20398.497,7.0,142.789479,1,World,142.0,Asia,34.0,Southern Asia,,,144,LK,LKA,,,,Developing,,18.285660948451252
+151,State of Palestine,137.0,4149.649,4.0,16.598596,1,World,142.0,Asia,145.0,Western Asia,,,275,PS,PSE,,,,Developing,,33.01484053229562
+152,Sudan,1447.0,45180.38,9.0,406.62342,1,World,2.0,Africa,15.0,Northern Africa,,,729,SD,SDN,x,,,Developing,,32.027176398250745
+153,Suriname,10.0,535.179,7.0,3.746253,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,740,SR,SUR,,,x,Developing,,18.685337055452475
+154,Eswatini,35.0,1072.033,14.0,15.008462,1,World,2.0,Africa,202.0,Sub-Saharan Africa,18.0,Southern Africa,748,SZ,SWZ,,x,,Developing,,32.648248701299316
+155,Sweden,113.0,9466.71,10.0,94.66709999999999,1,World,150.0,Europe,154.0,Northern Europe,,,752,SE,SWE,,,,Developed,,11.936565079103513
+156,Switzerland,77.0,7906.992,8.0,63.255936,1,World,150.0,Europe,155.0,Western Europe,,,756,CH,CHE,,,,Developed,,9.738216505088156
+157,Syrian Arab Republic,466.0,21081.815,4.0,84.32726,1,World,142.0,Asia,145.0,Western Asia,,,760,SY,SYR,,,,Developing,,22.104358661718642
+158,Tajikistan,194.0,7697.51,6.0,46.18506,1,World,142.0,Asia,143.0,Central Asia,,,762,TJ,TJK,,x,,Developing,,25.20295524137026
+159,Thailand,824.0,67518.388,7.0,472.628716,1,World,142.0,Asia,35.0,South-eastern Asia,,,764,TH,THA,,,,Developing,,12.204082834442078
+160,North Macedonia,22.0,2072.487,9.0,18.652383,1,World,150.0,Europe,39.0,Southern Europe,,,807,MK,MKD,,x,,Developed,,10.615265620483987
+161,Timor-Leste,44.0,1113.151,8.0,8.905208,1,World,142.0,Asia,35.0,South-eastern Asia,,,626,TL,TLS,x,,x,Developing,,39.52743158834696
+162,Togo,195.0,6595.943,11.0,72.555373,1,World,2.0,Africa,202.0,Sub-Saharan Africa,11.0,Western Africa,768,TG,TGO,x,,,Developing,,29.563627217518405
+163,Tonga,3.0,103.562,6.0,0.6213719999999999,1,World,9.0,Oceania,61.0,Polynesia,,,776,TO,TON,,,x,Developing,,28.968154342326336
+164,Trinidad and Tobago,20.0,1336.178,8.0,10.689424,1,World,19.0,Americas,419.0,Latin America and the Caribbean,29.0,Caribbean,780,TT,TTO,,,x,Developing,,14.968065631974182
+165,Tunisia,179.0,10741.88,6.0,64.45128,1,World,2.0,Africa,15.0,Northern Africa,,,788,TN,TUN,,,,Developing,,16.663749734683318
+166,Turkey,1289.0,73443.25,5.0,367.21625,1,World,142.0,Asia,145.0,Western Asia,,,792,TR,TUR,,,,Developing,,17.550966222219195
+167,Turkmenistan,109.0,5174.085,8.0,41.39268,1,World,142.0,Asia,143.0,Central Asia,,,795,TM,TKM,,x,,Developing,,21.06652673854411
+168,Uganda,1545.0,33476.772,12.0,401.72126399999996,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,800,UG,UGA,x,x,,Developing,,46.15140312811523
+169,Ukraine,494.0,45619.844,16.0,729.917504,1,World,150.0,Europe,151.0,Eastern Europe,,,804,UA,UKR,,,,Developed,,10.828620983447466
+170,United Arab Emirates,94.0,8946.777,1.0,8.946777,1,World,142.0,Asia,145.0,Western Asia,,,784,AE,ARE,,,,Developing,,10.506576837670146
+171,United Kingdom of Great Britain and Northern Ireland,761.0,64021.919,9.0,576.1972710000001,1,World,150.0,Europe,154.0,Northern Europe,,,826,GB,GBR,,,,Developed,,11.886554040968376
+172,United Republic of Tanzania,1913.0,45673.512,10.0,456.73512,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,834,TZ,TZA,x,,,Developing,,41.88423259415654
+173,United States of America,4322.0,311584.047,8.0,2492.672376,1,World,19.0,Americas,21.0,Northern America,,,840,US,USA,,,,Developed,,13.871056755354358
+174,Uruguay,49.0,3368.934,9.0,30.320406000000002,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,858,UY,URY,,,,Developing,,14.544660120975951
+175,Uzbekistan,589.0,28977.01,7.0,202.83906999999996,1,World,142.0,Asia,143.0,Central Asia,,,860,UZ,UZB,,x,,Developing,,20.326458803030402
+176,Vanuatu,7.0,242.653,5.0,1.2132649999999998,1,World,9.0,Oceania,54.0,Melanesia,,,548,VU,VUT,,,x,Developing,,28.847778514998787
+177,Venezuela (Bolivarian Republic of),598.0,28887.874,5.0,144.43937,1,World,19.0,Americas,419.0,Latin America and the Caribbean,5.0,South America,862,VE,VEN,,,,Developing,,20.700727232471312
+178,Viet Nam,1458.0,88871.38,5.0,444.3569,1,World,142.0,Asia,35.0,South-eastern Asia,,,704,VN,VNM,,,,Developing,,16.405731518965947
+179,Yemen,940.0,23807.588,6.0,142.845528,1,World,142.0,Asia,145.0,Western Asia,,,887,YE,YEM,x,,,Developing,,39.483210142917464
+180,Zambia,622.0,14023.203,15.0,210.34804499999998,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,894,ZM,ZMB,x,x,,Developing,,44.355059254294474
+181,Zimbabwe,377.0,12894.322,13.0,167.626186,1,World,2.0,Africa,202.0,Sub-Saharan Africa,14.0,Eastern Africa,716,ZW,ZWE,,x,,Developing,,29.237675311660432
